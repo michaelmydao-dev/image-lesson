@@ -5,6 +5,8 @@
 }
 html {
    background-image: url(../img/webb-dark.png);
+	color: yellow;
+	font-size: 150%
 }
 
 .server-image {
