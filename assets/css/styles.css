@@ -3,6 +3,9 @@
 * {
 	font-family: Helvetica;
 }
+html {
+   background-image: url(../img/webb-dark.png);
+}
 
 .server-image {
 	float: left;
@@ -13,6 +16,6 @@
 	border: 10px solid #66ccdd;
 }
 
-.clear{
+.clear {
 	clear: both;
 }
